@@ -50,7 +50,7 @@ const Login = () => {
                                     <div className="card-body">
                                         <img height={130} src="" className="card-img-top" alt="..." />
                                         <h5 className="card-title"><b>New User</b></h5>
-                                        <Link to="" className="btn btn-primary">Register</Link>
+                                        <Link to="/register" className="btn btn-primary">Register</Link>
                                         <h5 className="card-title"><b>Existing User</b></h5>
                                         <Link to="" className="btn btn-primary">Log In</Link>
                                     </div>
